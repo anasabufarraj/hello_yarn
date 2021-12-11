@@ -1,0 +1,8 @@
+{
+  "name": "hello_yarn",
+  "version": "1.0.0",
+  "description": "Learning yarn.",
+  "main": "index.js",
+  "author": "Anas Abu Farraj",
+  "license": "MIT"
+}
