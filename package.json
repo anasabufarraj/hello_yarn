@@ -4,5 +4,14 @@
   "description": "Learning yarn.",
   "main": "index.js",
   "author": "Anas Abu Farraj",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/anasabufarraj/hello_yarn.git",
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.15"
+  }
 }
