@@ -1,7 +1,7 @@
 {
   "name": "hello_yarn",
   "version": "1.22.17",
-  "description": "Learning yarn.",
+  "description": "Learning Yarn and Snyk.",
   "main": "index.js",
   "author": "Anas Abu Farraj",
   "license": "MIT",
@@ -12,9 +12,11 @@
     "test": "snyk test"
   },
   "dependencies": {
+    "commander": "^8.3.0",
     "express": "^4.17.2",
     "lodash": "^4.17.21",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "snyk": "^1.797.0"
