@@ -1,2 +1,2 @@
 # Hello Yarn
-Learning yarn.
+Learning yarn with Snyk.
